@@ -69,7 +69,7 @@ If you'd like to contribute to these projects, please follow the [Contribution G
 
 **Attention Contributors and Users:**
 
-Some datasets, due to their size exceeding GitHub's 100 MB limit, are not uploaded to this repository. You can find and download these datasets from the following sources:
+Some datasets(like `creditcard.csv`,`newsdata-train.csv`), due to their size exceeding GitHub's 100 MB limit, are not uploaded to this repository. You can find and download these datasets from the following sources:
 
 - **Kaggle:** [Kaggle Datasets](https://www.kaggle.com/datasets)
 
