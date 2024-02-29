@@ -23,7 +23,7 @@ We are Using **SKlearn** library for all these Projects.
 - Customer Segmentation using K-Means Clustering 
 - Diabetes Prediction using KNN
 - Diabetes Prediction using SVM
-- estimation of Obesity levels using Logistic Regression
+- Estimation of Obesity levels using Logistic Regression
 - Fake News Prediction using Logistic Regression
 - Gold Price Prediction using Machine Learning with Python
 - Heart Disease Prediction using Random Forest
