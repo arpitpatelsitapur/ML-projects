@@ -65,3 +65,14 @@ Each project may have its own set of instructions and requirements. Please refer
 If you'd like to contribute to these projects, please follow the [Contribution Guidelines](CONTRIBUTING.md).
 
 
+# Notice: Large Datasets
+
+**Attention Contributors and Users:**
+
+Some datasets, due to their size exceeding GitHub's 100 MB limit, are not uploaded to this repository. You can find and download these datasets from the following sources:
+
+- **Kaggle:** [Kaggle Datasets](https://www.kaggle.com/datasets)
+
+Please ensure you have the necessary permissions to use and download these datasets from their respective sources. Thank you for your understanding.
+
+Happy exploring and contributing!
