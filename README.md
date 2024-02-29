@@ -30,7 +30,7 @@ We are Using **SKlearn** library for all these Projects.
 - Loan Approval Status Prediction using SVM
 - Loan Payment Status Prediction using Naive Byes 
 - Medical Insurance Cost Prediction using Linear Regression
-- Movie Recommendation System using Machine Learning with Python
+- Movie Recommendation System using Cosine Similarity
 - Parkinson's Disease Detection using SVM
 - SONAR Rock vs Mine Prediction using Logistic Regression
 - Spam Mail Prediction using Logistic Regression
