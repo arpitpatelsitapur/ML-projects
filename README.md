@@ -21,8 +21,8 @@ We are Using **SKlearn** library for all these Projects.
 - Car Price Prediction using Linear and Lasso regression
 - Credit Card Fraud Detection using Logistic Regression
 - Customer Segmentation using K-Means Clustering 
-- Diabetes Prediction using KNN
-- Diabetes Prediction using SVM
+- Diabetes Prediction using KNN 
+- Diabetes Prediction using SVM 
 - Estimation of Obesity levels using Logistic Regression
 - Fake News Prediction using Logistic Regression
 - Gold Price Prediction using Machine Learning with Python
@@ -35,7 +35,7 @@ We are Using **SKlearn** library for all these Projects.
 - SONAR Rock vs Mine Prediction using Logistic Regression
 - Spam Mail Prediction using Logistic Regression
 - Titanic Survival Prediction using Logistic Regression
-- Wine Quality Prediction using Random Forest
+- Wine Quality Prediction using Random Forest algo
 
 This list is sorted alphabetically based on the first character of each project's name.
 
