@@ -16,10 +16,14 @@ This repository is a compilation of my machine learning projects, each designed 
 We are Using **SKlearn** library for all these Projects.
 
 ## Projects
+- Amazone Product Recommendation System using Cosine Similarity
 - Big Mart Sales Prediction using XGBRegressor
+- Book Recommendation System using collaborative filtering
+- Breast Cancer Classification using Logistic Regression
 - Calories Burnt prediction using XGBoost
 - Car Price Prediction using Linear and Lasso regression
 - Credit Card Fraud Detection using Logistic Regression
+- Crop Recommendation system using multiple ML algorithms
 - Customer Segmentation using K-Means Clustering 
 - Diabetes Prediction using KNN 
 - Diabetes Prediction using SVM 
@@ -27,15 +31,18 @@ We are Using **SKlearn** library for all these Projects.
 - Fake News Prediction using Logistic Regression
 - Gold Price Prediction using Machine Learning with Python
 - Heart Disease Prediction using Random Forest
+- Laptop Price Prediction Using Multiple Regression algorithms
 - Loan Approval Status Prediction using SVM
 - Loan Payment Status Prediction using Naive Byes 
 - Medical Insurance Cost Prediction using Linear Regression
 - Movie Recommendation System using Cosine Similarity
 - Parkinson's Disease Detection using SVM
+- Placement prediction using Logistic Regression
 - SONAR Rock vs Mine Prediction using Logistic Regression
 - Spam Mail Prediction using Logistic Regression
 - Titanic Survival Prediction using Logistic Regression
 - Wine Quality Prediction using Random Forest algo
+- **Mini Project**: Finding similiar Characters of Game of Thrones using  ML Algorithms
 
 This list is sorted alphabetically based on the first character of each project's name.
 
